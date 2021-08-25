@@ -1,0 +1,14 @@
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.csproj.AssemblyReference.cache
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.AssemblyInfoInputs.cache
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.AssemblyInfo.cs
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.csproj.CoreCompileInputs.cache
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.exe
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.deps.json
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.runtimeconfig.json
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.runtimeconfig.dev.json
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.dll
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\bin\Debug\netcoreapp3.1\projetoAvanade.pdb
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.dll
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.pdb
+c:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\netcoreapp3.1\projetoAvanade.genruntimeconfig.cache

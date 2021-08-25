@@ -1,0 +1,5 @@
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\net5.0\projetoAvanade.csproj.AssemblyReference.cache
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\net5.0\projetoAvanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\net5.0\projetoAvanade.AssemblyInfoInputs.cache
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\net5.0\projetoAvanade.AssemblyInfo.cs
+C:\Users\sektor\Desktop\AVANADE\crudAndre\projetoAvanade\obj\Debug\net5.0\projetoAvanade.csproj.CoreCompileInputs.cache
